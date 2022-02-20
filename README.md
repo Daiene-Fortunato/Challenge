@@ -1,4 +1,4 @@
-![Licensa MIT](https://img.shields.io/github/license/Daiene-Fortunato/wcloud)![GitHub repo size](https://img.shields.io/github/repo-size/Daiene-Fortunato/wcloud)
+![Licensa MIT](https://img.shields.io/github/license/Daiene-Fortunato/Challenge)![GitHub repo size](https://img.shields.io/github/repo-size/Daiene-Fortunato/Challenge)
 
 # Desafio Capgemini - Seja bem-vindo!
 
@@ -11,7 +11,7 @@
 
 **Exemplo:**
 
-![exemploQ1](https://github.com/Daiene-Fortunato/Challenge/blob/main/ExemploQ1.png?raw=true)
+![exemploQ1](https://github.com/Daiene-Fortunato/Challenge/blob/main/imagens/ExemploQ1.png?raw=true)
 
 
 
@@ -21,7 +21,7 @@
 
 Débora digitou uma string aleatória no campo de senha, porém ela não tem certeza se é uma senha forte. Para ajudar Débora, construa um algoritmo que informe qual é o número mínimo de caracteres que devem ser adicionados para uma string qualquer ser considerada segura.
 
-![exemploQ2](https://github.com/Daiene-Fortunato/Challenge/blob/main/ExemploQ2.png?raw=true)
+![exemploQ2](https://github.com/Daiene-Fortunato/Challenge/blob/main/imagens/ExemploQ2.png?raw=true)
 
 **Explicação: **Ela pode tornar a senha segura adicionando 3 caracteres, por exemplo, &ab, transformando a senha em Ya3&ab. 2 caracteres não são suficientes visto que a senha precisa ter um tamanho mínimo de 6 caracteres.
 
@@ -31,11 +31,11 @@ Débora digitou uma string aleatória no campo de senha, porém ela não tem cer
 
 Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma palavra podem ser realocadas para formar a outra palavra. Dada uma string qualquer, desenvolva um algoritmo que encontre o número de pares de substrings que são anagramas. 
 
-![exemploQ3a](https://github.com/Daiene-Fortunato/Challenge/blob/main/ExemploQ3a.png?raw=true)
+![exemploQ3a](https://github.com/Daiene-Fortunato/Challenge/blob/main/imagens/ExemploQ3a.png?raw=true)
 
 **Explicação:** A lista de todos os anagramas pares são: [o, o], [ov, vo] que estão nas posições [[0], [2]], [[0, 1], [1, 2]] respectivamente. 
 
-![exemploQ3b](https://github.com/Daiene-Fortunato/Challenge/blob/main/ExemploQ3b.png?raw=true)
+![exemploQ3b](https://github.com/Daiene-Fortunato/Challenge/blob/main/imagens/ExemploQ3b.png?raw=true)
 
 **Explicação:** A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão nas posições [[0], [3]], [[8], [9]] e [[0, 1, 2], [1, 2, 3]].
 
