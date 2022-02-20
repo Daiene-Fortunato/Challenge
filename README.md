@@ -1,4 +1,4 @@
-![License MIT](https://img.shields.io/github/license/Daiene-Fortunato/Challenge ![GitHub repo size](https://img.shields.io/github/repo-size/Daiene-Fortunato/Challenge)
+![GitHub repo size](https://img.shields.io/github/repo-size/Daiene-Fortunato/Challenge)
 
 # Desafio Capgemini - Seja bem-vindo!
 
@@ -109,4 +109,4 @@ Contribuiu com:
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](https://github.com/Daiene-Fortunato/Challenge/blob/main/LICENSE.md) para detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](https://github.com/Daiene-Fortunato/Challenge/blob/main/LICENSE) para detalhes.
